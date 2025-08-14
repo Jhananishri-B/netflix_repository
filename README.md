@@ -1,19 +1,27 @@
-Netflix Data Analysis
+Netflix Data Analysis:
+
 Overview
+
 This project performs an exploratory data analysis (EDA) on a dataset of Netflix titles. The primary goal is to gain a foundational understanding of the data, including its structure, key characteristics, and distribution of content types. The analysis is conducted using Python with the pandas, numpy, and matplotlib libraries.
 
-Features
+Features:
+
 The NETFLIX.ipynb notebook includes the following analysis steps:
 
-Data Loading and Inspection: The netflix_titles.csv file is loaded into a Pandas DataFrame. The initial rows, shape, column names, and data types are inspected to understand the dataset's structure.
+Data Loading and Inspection:
+The netflix_titles.csv file is loaded into a Pandas DataFrame. The initial rows, shape, column names, and data types are inspected to understand the dataset's structure.
 
-Data Cleaning: The code checks for and addresses missing values and duplicate entries to ensure data quality.
+Data Cleaning: 
+The code checks for and addresses missing values and duplicate entries to ensure data quality.
 
-Descriptive Statistics: The project generates descriptive statistics for both numerical and categorical columns, providing a summary of the data's distribution.
+Descriptive Statistics: 
+The project generates descriptive statistics for both numerical and categorical columns, providing a summary of the data's distribution.
 
-Unique Value Counts: It counts the number of unique values in each column to understand data cardinality.
+Unique Value Counts:
+It counts the number of unique values in each column to understand data cardinality.
 
-Exploratory Data Analysis (EDA): The notebook includes a bar chart to visualize the distribution of movies versus TV shows and identifies the most frequent country represented in the dataset.
+Exploratory Data Analysis (EDA):
+The notebook includes a bar chart to visualize the distribution of movies versus TV shows and identifies the most frequent country represented in the dataset.
 
 Project Structure
 .
@@ -21,7 +29,8 @@ Project Structure
 └── netflix_titles.csv
 NETFLIX.ipynb: This is the Jupyter notebook containing all the Python code for data loading, cleaning, and exploratory data analysis.
 
-netflix_titles.csv: The dataset used for the analysis, which contains information on various Netflix titles.
+netflix_titles.csv: 
+The dataset used for the analysis, which contains information on various Netflix titles.
 
 Requirements
 To run this code, you need to have the following libraries installed in your Python environment:
@@ -60,6 +69,7 @@ Run the cells in the notebook sequentially to see the analysis and visualization
 5)PLOTTING TOP 10 GENERES ON NETFLIX.
 
 <img width="933" height="754" alt="image" src="https://github.com/user-attachments/assets/0aa29f77-9e54-4581-95b0-d9eada7333d3" />
+
 
 
 
