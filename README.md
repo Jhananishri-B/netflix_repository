@@ -43,4 +43,13 @@ Run the cells in the notebook sequentially to see the analysis and visualization
 
 1)Plot a bar chart for the count of Movies vs TV Shows.
 <img width="735" height="563" alt="image" src="https://github.com/user-attachments/assets/81841d59-d0dc-41d7-9f11-02a6f7e230d7" />
+2)Scatter plot of release_year vs count of titles.
+<img width="817" height="535" alt="image" src="https://github.com/user-attachments/assets/85a99981-f1b8-495f-9b87-66a5f9448b75" />
+3)Create a histogram of movie durations (in minutes).
+<img width="832" height="560" alt="image" src="https://github.com/user-attachments/assets/993bc748-b96c-4934-a23d-fcf3efaa5f8e" />
+4)Bar chart of the number of titles added per year (based on date_added).
+<img width="1122" height="713" alt="image" src="https://github.com/user-attachments/assets/8644a5bb-a9b0-4315-9e08-5f572315e98b" />
+5)PLOTTING TOP 10 GENERES ON NETFLIX.
+<img width="933" height="754" alt="image" src="https://github.com/user-attachments/assets/0aa29f77-9e54-4581-95b0-d9eada7333d3" />
+
 
